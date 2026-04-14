@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Cristina Santos
 
-**`Engenheira de Dados`**
 
-## Um pouco sobre mim
+## ⚡ O estalo que me levou à Engenharia de Dados
+
 Quando comecei a estudar na área de TI, entrei no mundo de banco de dados e passei um período focada em Administração de Banco de Dados Oracle. A minha paixão por Engenharia de Dados surgiu a partir de um desafio na faculdade, que consistia em identificar um setor com uma dor e, através da engenharia, propor uma solução para mitigá-la.
 
 Passei muito tempo desenvolvendo esse projeto sozinha e fiz alguns cursos para me apoiar, porque até então todo o conhecimento era meu esforço pessoal. Eu só tinha assistido aulas na faculdade, então desenvolver um projeto completo naquele momento foi algo muito desafiador, mas ao mesmo tempo extremamente compensador.
